@@ -1,0 +1,21 @@
+Testa plans D19
+
+Ievads      Programmas vēlamā reakcija              Rezultāts C++
+0:0:0       Jaunas vertibas: 0:0:0                      +
+            Distance sekundees: 74399 s
+            Distance minutees: 1239.98 m
+            Distance starp laikiem: 20:39:59
+------------------------------------------------------------------------
+20:39:59    Jaunas vertibas: 20:39:59                   +
+            Distance sekundees: 0 s
+            Distance minutees: 0 m
+            Distance starp laikiem: 0:0:0
+------------------------------------------------------------------------
+-2:24:0     Ievadiet korektu laiku                      +
+  vai       (prasa atkartotu ievadi)
+12:36:78
+------------------------------------------------------------------------
+12:49:37    Jaunas vertibas: 12:49:37                   +
+            Distance sekundees: 29422 s
+            Distance minutees: 490.367 m
+            Distance starp laikiem: 8:10:22
